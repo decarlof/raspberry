@@ -1,0 +1,17 @@
+# Python pyproducts #
+#####################
+*.pyc
+build
+dist
+docs/build
+*egg-info
+*.egg
+.settings
+
+# Project specific #
+####################
+node_modules/
+*.js
+*.json
+public/
+sensor-values/
